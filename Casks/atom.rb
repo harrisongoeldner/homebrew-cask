@@ -1,5 +1,5 @@
 cask "atom" do
-  version "1.53.0"
+  version "latest"
   sha256 "590440babc7c455ddca313cf5a5ca12a69204eaa2274070beea26d0f521a8135"
 
   # github.com/atom/atom/ was verified as official when first introduced to the cask
